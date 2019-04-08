@@ -1,0 +1,22 @@
+.bg1 {
+  background: url(./img/cat.jpg);
+  background-repeat: no-repeat;
+  background-position: center ;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+.bg2 {
+  background: url(./img/dog.jpg);
+  background-repeat: no-repeat;
+  background-position: center ;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.content {
+  height: 100vh;
+  background-color: aqua;
+  opacity: 0.5;
+}
